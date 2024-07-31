@@ -1,12 +1,12 @@
 .cabecalho {
-    background-color: darkgoldenrod;
+    background-color: black;
     color: aliceblue;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: rgb(255, 255, 255);
+   background-color: white;
     padding: 100px 0;
 }
 
