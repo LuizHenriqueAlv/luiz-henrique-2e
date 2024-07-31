@@ -6,12 +6,12 @@
 }
 
 .section1 {
-    background-color: brown;
+    background-color: rgb(255, 255, 255);
     padding: 100px 0;
 }
 
 .section2 {
-    background-color: blue;
+    background-color: rgb(107, 107, 221);
     padding: 100px 0;
 }
 
