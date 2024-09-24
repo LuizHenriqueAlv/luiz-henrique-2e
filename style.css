@@ -2,18 +2,18 @@
     background-image: linear-gradient(black, white);
     color: aliceblue;
     display: flex;
-    padding: 60% 0;
+    padding: 35% 0;
 
 }
 
 .section1 {
    background-color: white;
-    padding:45% 0;
+    padding:35% 0;
 }
 
 .section2 {
     background-color: white;
-    padding: 45% 0;
+    padding: 35% 0;
 }
 
 .cabecalho-imagem{
